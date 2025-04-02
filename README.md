@@ -15,6 +15,8 @@ Um estudante de Sistemas de Informação que busca cada dia aprender e aprimorar
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebergomesjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebergomesjr&layout=compact&langs_count=7&theme=dark"/>

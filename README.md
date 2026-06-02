@@ -1,7 +1,6 @@
 
 ### Salve! Sou o Cleber 🤘
 
-- 📌 **21 anos**
 - 🎓 **Sistemas de Informação - PUC Minas Betim**
 - 🚀 **Estudando e aprimorando meus conhecimentos em desenvolvimento e tecnologia**
 

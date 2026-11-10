@@ -1,34 +1,21 @@
+# Salve! Sou o Cleber 🤘
 
-### Salve! Sou o Cleber 🤘
+Desenvolvedor Web Júnior
 
-- 🎓 **Sistemas de Informação - PUC Minas Betim**
-- 🚀 **Estudando e aprimorando meus conhecimentos em desenvolvimento e tecnologia**
+## Sobre mim
 
-#### Linguagens e Tecnologias 🖥
+- Stack principal: Java, Python e C#/.NET
+- Sistemas de Informação na PUC Minas Betim
 
-<div>
-  <hr>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+## Tecnologias
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebergomesjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebergomesjr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img src="https://skillicons.dev/icons?i=java,py,cs,dotnet,html,css,js,ts,react,nextjs,tailwind,fastapi,sqlite,htmx,git,github&theme=dark&perline=8" />
 
-#### Contato 📲
-<div>
-  <hr>
-    <a href="https://www.instagram.com/clebergomesj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:clebergomes2051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/clebergjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5531982599871" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+## Contato
 
+<a href="https://www.linkedin.com/in/clebergjunior/"><img src="https://img.shields.io/badge/LinkedIn-0f2b1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020000"></a>
+<a href="mailto:clebergomes2051@gmail.com"><img src="https://img.shields.io/badge/E--mail-0f2b1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020000"></a>
+<a href="https://api.whatsapp.com/send?phone=5531982599871"><img src="https://img.shields.io/badge/WhatsApp-0f2b1e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=020000"></a>
+<a href="[PREENCHER: URL do portfólio]"><img src="https://img.shields.io/badge/Portf%C3%B3lio-a21c1c?style=for-the-badge&labelColor=020000"></a>
 
-
+*"Knowledge is power."* — Francis Bacon
